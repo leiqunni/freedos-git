@@ -1,0 +1,12 @@
+[submodule "freecom"]
+	path = freecom
+	url = https://github.com/leiqunni/freedos-freecom.git
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/leiqunni/freedos-kernel.git
+[submodule "install"]
+	path = install
+	url = https://github.com/leiqunni/freedos-install.git
+[submodule "mem"]
+	path = mem
+	url = https://github.com/leiqunni/freedos-mem.git
